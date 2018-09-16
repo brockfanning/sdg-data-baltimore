@@ -60,7 +60,7 @@ jobs:
       - add_ssh_keys:
           fingerprints:
             # Replace this with the fingerprint for your "gh-stg" key.
-            - "c4:b0:de:c4:a7:80:69:a8:9e:c8:01:4a:c4:7b:87:53"
+            - "e8:54:d6:bd:2a:71:ab:42:d1:a3:3d:ee:bf:cc:71:bf"
       - attach_workspace:
           at: /tmp/build
       - run:
@@ -104,9 +104,9 @@ workflows:
           filters:
             branches:
               only: develop
-      - deploy_prod:
-          requires:
-            - build
-          filters:
-            branches:
-              only: master
+      #- deploy_prod:
+      #    requires:
+      #      - build
+      #    filters:
+      #      branches:
+      #        only: master

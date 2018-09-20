@@ -1,0 +1,470 @@
+Year,Neighborhood,Value
+2008,,11.7
+2011,,12.1
+2017,,10.4
+2008,Abell,
+2008,Allendale,16.1
+2011,Allendale,15.0
+2017,Allendale,10.6
+2008,Arcadia,
+2008,Arlington,13.7
+2011,Arlington,14.9
+2017,Arlington,20.0
+2008,Armistead Gardens,9.8
+2011,Armistead Gardens,4.4
+2017,Armistead Gardens,8.6
+2008,Ashburton,11.4
+2011,Ashburton,6.8
+2017,Ashburton,6.4
+2008,Baltimore Highlands,
+2008,Patterson Park Neighborhood,12.6
+2011,Patterson Park Neighborhood,8.8
+2017,Patterson Park Neighborhood,10.9
+2008,Barclay,10.2
+2011,Barclay,12.9
+2017,Barclay,11.4
+2008,Barre Circle,
+2008,Beechfield,18.1
+2011,Beechfield,15.3
+2017,Beechfield,8.4
+2008,Belair-Parkside,
+2008,Bellona-Gittings,
+2008,Berea,10.7
+2011,Berea,16.8
+2017,Berea,14.8
+2008,Better Waverly,
+2008,Beverly Hills,
+2008,Biddle Street,
+2008,Blythewood,
+2008,Bolton Hill,
+2008,Boyd-Booth,
+2008,Brewers Hill,
+2008,Bridgeview/Greenlawn,
+2008,Broadway East,
+2008,Broening Manor,
+2008,Brooklyn,10.0
+2011,Brooklyn,7.1
+2017,Brooklyn,9.0
+2008,Burleith-Leighton,
+2008,Butcher's Hill,
+2008,Callaway-Garrison,
+2008,Cameron Village,
+2008,Canton,4.7
+2011,Canton,6.0
+2017,Canton,3.2
+2008,Canton Industrial Area,
+2008,Carroll - Camden Industrial Area,
+2008,Carroll Park,
+2008,Carroll-South Hilton,16.1
+2011,Carroll-South Hilton,15.0
+2017,Carroll-South Hilton,10.6
+2008,Carrollton Ridge,
+2008,Cedarcroft,
+2008,Cedmont,
+2008,Cedonia,11.6
+2011,Cedonia,12.5
+2017,Cedonia,12.2
+2008,Central Forest Park,
+2008,Central Park Heights,
+2008,Charles North,
+2008,Cherry Hill,14.3
+2011,Cherry Hill,12.4
+2017,Cherry Hill,18.8
+2008,Cheswolde,5.8
+2011,Cheswolde,6.7
+2017,Cheswolde,5.4
+2008,Chinquapin Park,16.1
+2011,Chinquapin Park,12.5
+2017,Chinquapin Park,9.0
+2008,Orchard Ridge,
+2008,Clifton Park,10.7
+2011,Clifton Park,16.8
+2017,Clifton Park,14.8
+2008,Coldspring,19.2
+2011,Coldspring,14.5
+2017,Coldspring,0.0
+2008,Coldstream Homestead Montebello,16.7
+2011,Coldstream Homestead Montebello,14.8
+2017,Coldstream Homestead Montebello,13.0
+2008,Concerned Citizens Of Forest Park,
+2008,Coppin Heights/Ash-Co-East,
+2008,Cross Country,5.8
+2011,Cross Country,6.7
+2017,Cross Country,5.4
+2008,Cross Keys,
+2008,Curtis Bay,10.0
+2011,Curtis Bay,7.1
+2017,Curtis Bay,9.0
+2008,Curtis Bay Industrial Area,
+2008,Cylburn,
+2008,Darley Park,
+2008,Dickeyville,31.4
+2011,Dickeyville,30.5
+2017,Dickeyville,13.2
+2008,Dolfield,
+2008,Dorchester,11.4
+2011,Dorchester,6.8
+2017,Dorchester,6.4
+2008,Downtown,6.5
+2011,Downtown,9.5
+2017,Downtown,8.4
+2008,Druid Heights,14.3
+2011,Druid Heights,15.0
+2017,Druid Heights,10.0
+2008,Druid Hill Park,
+2008,Dunbar-Broadway,
+2008,Dundalk Marine Terminal,
+2008,East Arlington,
+2008,East Baltimore Midway,16.7
+2011,East Baltimore Midway,14.8
+2017,East Baltimore Midway,13.0
+2008,Easterwood,
+2008,Eastwood,
+2008,Edmondson Village,19.0
+2011,Edmondson Village,10.0
+2017,Edmondson Village,9.8
+2008,Ednor Gardens-Lakeside,
+2008,Ellwood Park/Monument,
+2008,Evergreen,
+2008,Evergreen Lawn,
+2008,Fairfield Area,
+2008,Fairmont,
+2008,Fallstaff,5.1
+2011,Fallstaff,3.7
+2017,Fallstaff,9.7
+2008,Federal Hill,2.5
+2011,Federal Hill,5.1
+2017,Federal Hill,3.3
+2008,Fells Point,7.2
+2011,Fells Point,7.1
+2017,Fells Point,5.7
+2008,Forest Park,18.0
+2011,Forest Park,12.4
+2017,Forest Park,10.6
+2008,Forest Park Golf Course,
+2008,Frankford,11.6
+2011,Frankford,12.5
+2017,Frankford,12.2
+2008,Franklin Square,
+2008,Franklintown,31.4
+2011,Franklintown,30.5
+2017,Franklintown,13.2
+2008,Franklintown Road,
+2008,Garwyn Oaks,
+2008,Gay Street,
+2008,Glen,5.1
+2011,Glen,3.7
+2017,Glen,9.7
+2008,Glen Oaks,
+2008,Glenham-Belhar,
+2008,Graceland Park,
+2008,Greektown,
+2008,Greenmount Cemetery,21.3
+2011,Greenmount Cemetery,15.7
+2017,Greenmount Cemetery,16.2
+2008,Greenmount West,21.3
+2011,Greenmount West,15.7
+2017,Greenmount West,16.2
+2008,Greenspring,
+2008,Grove Park,
+2008,Guilford,3.6
+2011,Guilford,6.2
+2017,Guilford,1.5
+2008,Gwynns Falls,
+2008,Gwynns Falls/Leakin Park,
+2008,Hampden,8.6
+2011,Hampden,8.1
+2017,Hampden,6.9
+2008,Hanlon-Longwood,
+2008,Hamilton Hills,14.4
+2011,Hamilton Hills,18.8
+2017,Hamilton Hills,13.4
+2008,Harlem Park,18.7
+2011,Harlem Park,21.2
+2017,Harlem Park,10.1
+2008,Harwood,
+2008,Hawkins Point,10.0
+2011,Hawkins Point,7.1
+2017,Hawkins Point,9.0
+2008,Heritage Crossing,
+2008,Herring Run Park,
+2008,Highlandtown,8.1
+2011,Highlandtown,4.8
+2017,Highlandtown,10.3
+2008,Hillen,
+2008,Hoes Heights,
+2008,Holabird Industrial Park,
+2008,Hollins Market,20.8
+2011,Hollins Market,13.0
+2017,Hollins Market,15.4
+2008,Homeland,3.6
+2011,Homeland,6.2
+2017,Homeland,1.5
+2008,Hopkins Bayview,
+2008,Howard Park,8.3
+2011,Howard Park,7.8
+2017,Howard Park,5.9
+2008,Hunting Ridge,
+2008,Idlewood,
+2008,Inner Harbor,2.5
+2011,Inner Harbor,5.1
+2017,Inner Harbor,3.3
+2008,Irvington,16.1
+2011,Irvington,15.0
+2017,Irvington,10.6
+2008,Johns Hopkins Homewood,
+2008,Johnston Square,
+2008,Jones Falls Area,
+2008,Jonestown,4.7
+2011,Jonestown,12.1
+2008,Bayview,
+2008,Kenilworth Park,
+2008,Kernewood,
+2008,Keswick,
+2008,Kresson,
+2008,Lake Evesham,
+2008,Lake Walker,
+2008,Lakeland,11.1
+2011,Lakeland,19.8
+2017,Lakeland,3.5
+2008,Langston Hughes,
+2008,Lauraville,13.1
+2011,Lauraville,17.9
+2017,Lauraville,4.2
+2008,Levindale,
+2008,Liberty Square,
+2017,Little Italy,16.7
+2008,Loch Raven,6.4
+2011,Loch Raven,9.8
+2017,Loch Raven,14.2
+2008,Locust Point,
+2008,Locust Point Industrial Area,
+2008,Lower Herring Run Park,
+2008,Loyola/Notre Dame,
+2008,Lucille Park,
+2008,Madison Park,
+2008,Madison-Eastend,14.8
+2011,Madison-Eastend,16.7
+2017,Madison-Eastend,12.1
+2008,Mayfield,
+2008,McElderry Park,
+2008,Medfield,8.6
+2011,Medfield,8.1
+2017,Medfield,6.9
+2008,Medford,
+2008,Mid-Govans,6.9
+2011,Mid-Govans,10.6
+2017,Mid-Govans,5.7
+2008,Mid-Town Belvedere,12.0
+2011,Mid-Town Belvedere,11.5
+2017,Mid-Town Belvedere,9.7
+2008,Middle Branch/Reedbird Parks,
+2008,Middle East,8.8
+2011,Middle East,8.8
+2017,Middle East,12.6
+2008,Midtown-Edmondson,
+2008,Millhill,
+2008,Milton-Montford,
+2008,Mondawmin,18.1
+2011,Mondawmin,18.5
+2017,Mondawmin,5.2
+2008,Montebello,
+2008,Moravia-Walther,
+2008,Morgan Park,
+2008,Morgan State University,
+2008,Morrell Park,8.5
+2011,Morrell Park,6.2
+2017,Morrell Park,8.2
+2008,Mosher,
+2008,New Southwest/Mount Clare,
+2008,Mount Holly,
+2008,Mount Vernon,
+2008,Mount Washington,19.2
+2011,Mount Washington,14.5
+2017,Mount Washington,0.0
+2008,Mount Winans,11.1
+2011,Mount Winans,19.8
+2017,Mount Winans,3.5
+2008,Mt Pleasant Park,
+2008,New Northwood,13.2
+2011,New Northwood,12.0
+2017,New Northwood,14.1
+2008,North Harford Road,9.9
+2011,North Harford Road,9.9
+2017,North Harford Road,2.6
+2008,North Roland Park/Poplar Hill,9.0
+2011,North Roland Park/Poplar Hill,6.7
+2017,North Roland Park/Poplar Hill,3.6
+2008,Northwest Community Action,
+2008,O'Donnell Heights,
+2008,Oakenshawe,
+2008,Oaklee,
+2008,Oldtown,4.7
+2011,Oldtown,12.1
+2018,Oldtown,12.6
+2008,Oliver,
+2008,Orangeville,3.6
+2011,Orangeville,1.1
+2017,Orangeville,10.3
+2008,Orangeville Industrial Area,3.6
+2011,Orangeville Industrial Area,1.1
+2017,Orangeville Industrial Area,10.3
+2008,Original Northwood,13.2
+2011,Original Northwood,12.0
+2017,Original Northwood,14.1
+2008,Otterbein,
+2008,Overlea,
+2008,Panway/Braddish Avenue,
+2008,Park Circle,
+2008,Parklane,
+2008,Parkside,
+2008,Parkview/Woodbrook,
+2008,Patterson Park,12.6
+2011,Patterson Park,8.8
+2017,Patterson Park,10.9
+2008,Patterson Place,
+2008,Pen Lucy,
+2008,Penn North,10.0
+2011,Penn North,12.6
+2017,Penn North,9.9
+2008,Penn-Fallsway,
+2008,Penrose/Fayette Street Outreach,
+2008,Perkins Homes,8.8
+2011,Perkins Homes,8.8
+2008,Perring Loch,
+2008,Pimlico Good Neighbors,13.7
+2011,Pimlico Good Neighbors,14.9
+2017,Pimlico Good Neighbors,20.0
+2008,Pleasant View Gardens,
+2008,Poppleton,20.8
+2011,Poppleton,13.0
+2017,Poppleton,15.4
+2008,Port Covington,
+2008,Pulaski Industrial Area,
+2008,Purnell,
+2008,Radnor-Winston,
+2008,Ramblewood,
+2008,Reisterstown Station,
+2008,Remington,8.6
+2011,Remington,8.1
+2017,Remington,6.9
+2008,Reservoir Hill,10.0
+2011,Reservoir Hill,12.6
+2017,Reservoir Hill,9.9
+2008,Richnor Springs,
+2008,Ridgely's Delight,
+2008,Riverside,
+2008,Rognel Heights,
+2008,Roland Park,9.0
+2011,Roland Park,6.7
+2017,Roland Park,3.6
+2008,Rosebank,
+2008,Rosemont,11.3
+2011,Rosemont,13.8
+2017,Rosemont,11.3
+2008,Rosemont East,11.3
+2011,Rosemont East,13.8
+2017,Rosemont East,11.3
+2008,Rosemont Homeowners/Tenants,11.3
+2011,Rosemont Homeowners/Tenants,13.8
+2017,Rosemont Homeowners/Tenants,11.3
+2008,Sabina-Mattfeldt,
+2008,Saint Agnes,
+2008,Saint Helena,
+2008,Saint Josephs,
+2008,Saint Paul,
+2008,Sandtown-Winchester,18.7
+2011,Sandtown-Winchester,21.2
+2017,Sandtown-Winchester,10.1
+2008,South Baltimore,7.7
+2011,South Baltimore,8.8
+2017,South Baltimore,1.5
+2008,Seton Business Park,
+2008,Seton Hill,6.5
+2011,Seton Hill,9.5
+2017,Seton Hill,8.4
+2008,Sharp-Leadenhall,
+2008,Shipley Hill,
+2008,South Clifton Park,10.7
+2011,South Clifton Park,16.8
+2017,South Clifton Park,14.8
+2008,Spring Garden Industrial Area,
+2008,Stadium Area,
+2008,Stonewood-Pentwood-Winston,
+2008,Taylor Heights,
+2008,Ten Hills,18.1
+2011,Ten Hills,15.3
+2017,Ten Hills,8.4
+2008,The Orchards,
+2008,Towanda-Grantley,
+2008,Tremont,
+2008,Tuscany-Canterbury,
+2008,Union Square,
+2008,University Of Maryland,
+2008,Uplands,
+2008,Upper Fells Point,
+2008,Upton,14.3
+2011,Upton,15.0
+2017,Upton,10.0
+2008,Villages Of Homeland,
+2008,Violetville,8.5
+2011,Violetville,6.2
+2017,Violetville,8.2
+2008,Wakefield,
+2008,Walbrook,18.0
+2011,Walbrook,12.4
+2017,Walbrook,10.6
+2008,Waltherson,
+2008,Washington Hill,
+2008,Washington Village/Pigtown,11.2
+2011,Washington Village/Pigtown,12.6
+2017,Washington Village/Pigtown,4.6
+2008,Waverly,7.5
+2011,Waverly,11.1
+2017,Waverly,12.0
+2008,West Arlington,8.3
+2011,West Arlington,7.8
+2017,West Arlington,5.9
+2008,West Forest Park,
+2008,West Hills,18.1
+2011,West Hills,15.3
+2017,West Hills,8.4
+2008,Westfield,
+2008,Westgate,
+2008,Westport,11.1
+2011,Westport,19.8
+2017,Westport,3.5
+2008,Wilson Park,
+2008,Winchester,
+2008,Windsor Hills,
+2008,Winston-Govans,6.9
+2011,Winston-Govans,10.6
+2017,Winston-Govans,5.7
+2008,Woodberry,8.6
+2011,Woodberry,8.1
+2017,Woodberry,6.9
+2008,Woodbourne Heights,
+2008,Woodbourne-McCabe,
+2008,Woodmere,
+2008,Wyman Park,
+2008,Wyndhurst,
+2008,Yale Heights,
+2008,Lower Edmondson Village,
+2008,Wilhelm Park,
+2008,Edgewood,
+2008,Evesham Park,
+2008,Belvedere,16.1
+2011,Belvedere,12.5
+2017,Belvedere,9.0
+2008,Wrenlane,
+2008,York-Homeland,
+2008,CARE,
+2008,Downtown West,
+2008,Belair-Edison,8.4
+2011,Belair-Edison,19.4
+2017,Belair-Edison,10.1
+2008,Four By Four,
+2008,Charles Village,10.2
+2011,Charles Village,12.9
+2017,Charles Village,11.4
+2008,Old Goucher,
